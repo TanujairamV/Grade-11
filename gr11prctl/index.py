@@ -1,4 +1,4 @@
-from snippets import (
+from gr11prctl.snippets import (
     pattern1_code,
     perfect_number_code,
     prime_number_code,
