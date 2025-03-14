@@ -6,7 +6,9 @@ class CodeSnippet:
 pattern1_code = CodeSnippet("""\
 rows = int(input("Enter the number of rows: "))
 for i in range(1, rows + 1):
-    print("* " * i)
+    for j in range(1,i+1):
+        print('*',end='')
+    print()
 """)
 
 # 2. Determine Perfect Number
