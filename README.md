@@ -4,7 +4,7 @@ A Python library containing practical programs for Grade 11.
 
 ## Installation
 ```bash
-pip install git+https://github.com/TanujairamV/gr11prctl.git
+pip install gr11prctl 
 ```
 
 ## Usage
